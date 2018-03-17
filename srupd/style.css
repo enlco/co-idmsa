@@ -1,0 +1,27 @@
+#changelog {
+    font-family: sans-serif;
+}
+
+#image {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#chlg {
+    width: 1027px;
+    height: 554px;
+    position: absolute;
+    top: 207px;
+    left: 219px;
+}
+
+#bg {
+    background: url("image.png")
+}
+
+#btn {
+    position: absolute;
+    left: 880px;
+    top: 786px;
+}
